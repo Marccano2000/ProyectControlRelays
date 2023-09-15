@@ -1,0 +1,10 @@
+C:\Users\MARC\source\repos\RelaysControler\RelaysControler\bin\Debug\RelaysControler.exe.config
+C:\Users\MARC\source\repos\RelaysControler\RelaysControler\bin\Debug\RelaysControler.exe
+C:\Users\MARC\source\repos\RelaysControler\RelaysControler\bin\Debug\RelaysControler.pdb
+C:\Users\MARC\source\repos\RelaysControler\RelaysControler\obj\Debug\RelaysControler.csproj.AssemblyReference.cache
+C:\Users\MARC\source\repos\RelaysControler\RelaysControler\obj\Debug\RelaysControler.Form1.resources
+C:\Users\MARC\source\repos\RelaysControler\RelaysControler\obj\Debug\RelaysControler.Properties.Resources.resources
+C:\Users\MARC\source\repos\RelaysControler\RelaysControler\obj\Debug\RelaysControler.csproj.GenerateResource.cache
+C:\Users\MARC\source\repos\RelaysControler\RelaysControler\obj\Debug\RelaysControler.csproj.CoreCompileInputs.cache
+C:\Users\MARC\source\repos\RelaysControler\RelaysControler\obj\Debug\RelaysControler.exe
+C:\Users\MARC\source\repos\RelaysControler\RelaysControler\obj\Debug\RelaysControler.pdb
